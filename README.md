@@ -8,4 +8,4 @@ Multithreaded Solana program that watches multiple Solana wallets for balance ch
 - Add support for importing multiple private keys / seed phrases from a directory
 - Add telegram / discord notification support
 
-  Hmu on Discord Atilla4030 if you want to pay me to add these features faster
+  Hmu on Discord atilla4030 if you want to pay me to add these features faster
