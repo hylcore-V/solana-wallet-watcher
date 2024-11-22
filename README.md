@@ -1,6 +1,6 @@
 # solana-wallet-watcher
 
-Multithreaded Solana program that watches multiple Solana wallets for balance changes and prints to console.
+Multithreaded Solana program that watches multiple Solana wallets for balance changes and prints to console every 5 seconds.
 
 ## Todo
 
