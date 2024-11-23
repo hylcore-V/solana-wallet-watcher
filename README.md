@@ -9,3 +9,5 @@ Multithreaded Solana program that watches multiple Solana wallets for balance ch
 - Add telegram / discord notification support
 
   Hmu on Discord atilla4030 if you want to pay me to add these features faster
+
+  [screenshot](https://i.imgur.com/7kdMKQi.png)
