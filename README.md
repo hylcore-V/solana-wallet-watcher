@@ -10,4 +10,4 @@ Multithreaded Solana program that watches multiple Solana wallets for balance ch
 
   Hmu on Discord atilla4030 if you want to pay me to add these features faster
 
-  [screenshot](https://i.imgur.com/7kdMKQi.png)
+  ![screenshot](https://i.imgur.com/7kdMKQi.png)
